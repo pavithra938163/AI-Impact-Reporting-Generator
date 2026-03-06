@@ -1,0 +1,9 @@
+{
+  "order_id": "ORD1023",
+  "product_name": "Reusable Bamboo Bottle",
+  "quantity": 2,
+  "plastic_per_unit_grams": 50,
+  "local_distance_km": 40,
+  "import_distance_km": 8000,
+  "supplier_type": "local"
+}

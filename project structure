@@ -1,0 +1,21 @@
+ai-impact-generator/
+│
+├── app.py
+├── config.py
+├── requirements.txt
+│
+├── ai/
+│   └── impact_ai.py
+│
+├── services/
+│   └── impact_calculator.py
+│
+├── utils/
+│   ├── logger.py
+│   └── validator.py
+│
+├── data/
+│   └── orders.json
+│
+└── reports/
+    └── impact_reports.json

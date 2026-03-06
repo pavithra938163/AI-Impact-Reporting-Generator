@@ -1,0 +1,12 @@
+#POST request:
+/generate_impact
+#Body:
+{
+  "order_id": "ORD2001",
+  "product_name": "Reusable Bamboo Bottle",
+  "quantity": 3,
+  "plastic_per_unit_grams": 40,
+  "local_distance_km": 50,
+  "import_distance_km": 7000,
+  "supplier_type": "local"
+}
